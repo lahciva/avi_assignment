@@ -1,0 +1,12 @@
+HelloWeb:
+
+Design Approach:
+1- Implemented MVC structure as I've experience of such framework. Could have used other frameworks, but due to time issues, chose the fastest option.
+2- Designed Hello World program first, to make the basics working.
+3- Modified this program to navigate from home page to solution page or exception page.
+4- To parse mathematical expression, used Nashorn JavaScript in Java i.e. scripting.
+5- Added logs for better understanding of flow.
+
+Improvement Scope:
+1- Add more complex mathematical operations
+2- Improve front end
